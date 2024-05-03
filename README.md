@@ -1,1 +1,1 @@
-# Daata App - Connecting Farmers and consumers directly through a single platfrom
+## Daata App - Connecting Farmers and consumers directly through a single platfrom
